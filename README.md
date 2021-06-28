@@ -3,6 +3,8 @@
 
 see [Change Log](https://github.com/yogasarak/admin-ui/blob/master/CHANGELOG.md) for a comprehensive list of features, architecture and code paradigm used in this progressive web app.
 
+[read description & watch demo](https://sarakeyser.com/admin-ui)
+
 ### Quick Start:
 
 `npm install`
